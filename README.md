@@ -1,16 +1,16 @@
-### Hi there 👋
+### ℹ️
 
-<!--
-**japankun/japankun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|場|個|
+|---|---|
+|Twitter|[@SCEJapan](https://twitter.com/SCEJapan/)|
+|pixivFANBOX|[https://jpn.fanbox.cc/](https://jpn.fanbox.cc/)|
 
-Here are some ideas to get you started:
+### 最近関係しているもの
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|名|説|
+|---|---|
+|[BBS.JPNKN.COM](https://bbs.jpnkn.com/)|レンタル掲示板サービス|
+|[アゲハ記録2020](https://ageha.jpnkn.com/reports/2020)|趣味でやっているアゲハチョウの記録|
+|[アゲハ記録2019](https://ageha.jpnkn.com/reports/2019)|同|
+|[アゲハ記録2018](http://ageha.jpnkn.com/)|同|
+
